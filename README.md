@@ -1,7 +1,7 @@
 Hi there! I'm Gaby! 😃
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Phyton
 - 📫 How to reach me: email: gabriellyribeiro518@yahoo.com.br
 
 
